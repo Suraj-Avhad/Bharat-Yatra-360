@@ -1,0 +1,93 @@
+body {
+  margin: 0;
+  font-family: "Poppins", -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: linear-gradient(to bottom right, #fffbf0, #f0f4f8);  /* softer and brighter */
+  color: #333;
+}
+
+code {
+  font-family: "Fira Code", source-code-pro, Menlo, Monaco, Consolas, "Courier New", monospace;
+}
+
+.custom-bg {
+  background-color: #ffffff;
+}
+
+.text-color {
+  
+  color: #f97300;
+   /* Orange primary */
+}
+
+.border-color {
+  border-color: #f97300;
+}
+
+.custom-bg-text {
+  color: #1e1e1e;
+}
+
+.bg-color {
+  background-color: #f97300;
+}
+
+.text-color-second {
+  color: #ff5722; /* A deeper vibrant orange */
+}
+
+.rounded-card {
+  padding: 1.5em 1em;
+  border-radius: 1.5em;
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);
+  background: linear-gradient(135deg, #ffffff, #e8fdf5);  /* lighter pastel green tone */
+  transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+}
+
+.rounded-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 12px 24px rgba(0, 0, 0, 0.15);
+}
+
+.form-card {
+  padding: 1.2em;
+  border-radius: 1em;
+  background: #ffffff;
+  box-shadow: 0 10px 25px rgba(63, 81, 181, 0.25); /* bluish purple for a calm look */
+  transition: box-shadow 0.3s ease;
+}
+
+.form-card:hover {
+  box-shadow: 0 15px 30px rgba(63, 81, 181, 0.35);
+}
+
+.job-card {
+  transition: transform 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
+  background: #ffffff;
+  border: 1px solid #e0e0e0;
+  border-radius: 1em;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+.job-card:hover {
+  transform: scale(1.03);
+  box-shadow: 0 10px 25px rgba(0, 0, 0, 0.2);
+}
+
+.profile-photo {
+  width: 100px;
+  height: 100px;
+  object-fit: cover;
+  border: 4px solid #ff7043;
+  box-shadow: 0 6px 18px rgba(0, 0, 0, 0.2);
+  border-radius: 50%;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+}
+
+.profile-photo:hover {
+  transform: scale(1.05);
+  box-shadow: 0 12px 28px rgba(0, 0, 0, 0.3);
+}
