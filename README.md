@@ -43,7 +43,30 @@ This project helps users explore destinations, book tours, manage itineraries, a
 
 ## Screenshots
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+## 📸 Screenshots
+
+![Screenshot 1](https://github.com/Suraj-Avhad/Bharat-Yatra-360/blob/4fc2127c6876b9ca6068a76d9587efea550f4578/Screenshot%202025-12-06%20133238.png)
+
+![Screenshot 2](https://github.com/Suraj-Avhad/Bharat-Yatra-360/blob/4fc2127c6876b9ca6068a76d9587efea550f4578/Screenshot%202025-12-06%20133314.png)
+
+![Screenshot 3](https://github.com/Suraj-Avhad/Bharat-Yatra-360/blob/4fc2127c6876b9ca6068a76d9587efea550f4578/Screenshot%202025-12-06%20133342.png)
+
+![Screenshot 4](https://github.com/Suraj-Avhad/Bharat-Yatra-360/blob/4fc2127c6876b9ca6068a76d9587efea550f4578/Screenshot%202025-12-06%20133419.png)
+
+![Screenshot 5](https://github.com/Suraj-Avhad/Bharat-Yatra-360/blob/4fc2127c6876b9ca6068a76d9587efea550f4578/Screenshot%202025-12-06%20133443.png)
+
+![Screenshot 6](https://github.com/Suraj-Avhad/Bharat-Yatra-360/blob/4fc2127c6876b9ca6068a76d9587efea550f4578/Screenshot%202025-12-06%20133815.png)
+
+![Screenshot 7](https://github.com/Suraj-Avhad/Bharat-Yatra-360/blob/4fc2127c6876b9ca6068a76d9587efea550f4578/Screenshot%202025-12-06%20134040.png)
+
+![Screenshot 8](https://github.com/Suraj-Avhad/Bharat-Yatra-360/blob/4fc2127c6876b9ca6068a76d9587efea550f4578/Screenshot%202025-12-06%20134130.png)
+
+![Screenshot 9](https://github.com/Suraj-Avhad/Bharat-Yatra-360/blob/4fc2127c6876b9ca6068a76d9587efea550f4578/Screenshot%202025-12-06%20134209.png)
+
+![Screenshot 10](https://github.com/Suraj-Avhad/Bharat-Yatra-360/blob/4fc2127c6876b9ca6068a76d9587efea550f4578/Screenshot%202025-12-06%20134339.png)
+
+![Screenshot 11](https://github.com/Suraj-Avhad/Bharat-Yatra-360/blob/4fc2127c6876b9ca6068a76d9587efea550f4578/Screenshot%202025-12-06%20134649.png)
+
 
 ## Demo Video
 
